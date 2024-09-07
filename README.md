@@ -12,18 +12,31 @@ Welcome to the Library Management System!
 
 From this user interface you will have acess to the different set of operations for each choice. 
 
-Book Operations              User Operations:            Author Operations:
-    
-  1. Add a new book           1. Add a new user            1. Add a new author
-  2. Borrow a book            2. View user details         2. View author details
-  3. Return a book            3. Display all users         3. Display all authors
-  5. Search for a book        4. Back to Main Menu         4. Back to Main Menu
-  6. Display all books        
-  7. Back to Main Menu
+Book Operations
+1. Add a new book
+2. Borrow a book
+3. Return a book
+4. Search for a book
+5. Display all books
+6. Back to Main Menu
+
+User Operations:
+1. Add a new user
+2. View user details
+3. Display all users
+4. Back to Main Menu
+
+Author Operations:
+1. Add a new author
+2. View author details
+3. Display all authors
+4. Back to Main Menu
+
+
 
 
 Each interface has a aray of opitions at the users disposial.
-The interface for each operation has a feature to go back to the main menu.
+Also in the operation interfaces a feature to go back to the main menu.
 
 
     
